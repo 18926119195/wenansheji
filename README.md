@@ -1,18 +1,16 @@
-# 爆款视频文稿拆解
+# 自媒体文案策划作品集
 
-**求职作品集｜自媒体运营与文案策划**
+从三篇图文样稿出发，展示如何选题、搭标题与首屏、编辑正文，交付能直接阅读的成稿。
 
-用三篇长图文展示选题拆解、短视频改写和内容测试。每篇附原稿证据、可拍口播和运营判断。 [打开作品集](portfolio/README.md)
+**[进入作品集](portfolio/README.md)** · **[读完整图文《模考卷上的分，哪些还能拿回来？》](portfolio/drafts/mock-exam-review.md)**
 
-这里收录 Jenny Hoyos 和 Aprilynne Alter 的视频脚本方法，以及用于分析样稿、改写和批量生成原创文案的 Codex Skill。
+## 方法与资料
 
 | 资料 | 内容 |
 | --- | --- |
-| [Jenny Hoyos](research/jenny-hoyos.md) | Shorts 的首帧、悬念、因果推进、兑现、留存复盘，以及她使用 AI 的具体步骤。 |
-| [Aprilynne Alter](research/aprilynne-alter.md) | 选题、标题与缩略图、前五秒、长视频全文结构和逐句配画面。 |
-| [viral-script-design](.agents/skills/viral-script-design/SKILL.md) | 把样稿拆成可引用的证据、可复用的写作机制和可执行的测试。 |
-| [案例试跑](examples/script-analysis.md) | 用创作者原片验证拆解方法，再把机制迁移到新题材。 |
+| [文案策划 Skill](.agents/skills/viral-script-design/SKILL.md) | 读原稿、确定读者承诺、逐段编辑、生成变体与核验成稿。 |
+| [Jenny Hoyos 笔记](research/jenny-hoyos.md) | 开头和结尾先定，给读者一个继续看下去的问题，用具体例子推进。 |
+| [Aprilynne Alter 笔记](research/aprilynne-alter.md) | 从标题的承诺出发写开头，尽早给读者一条可用信息。 |
+| [创作者原片拆解](examples/script-analysis.md) | 资料出处与最初的研究试跑。 |
 
-研究笔记采用中文转述，保留原片、访谈逐字稿入口和段落时间戳。播放量、留存变化等数据保留来源和口径。
-
-可以给 Codex 这样的任务：`$viral-script-design 拆解我上传的文案，归纳共性和例外。给每篇生成 3 个原创开场，选一个写成 35 秒成稿，附画面和验证方法。`
+研究笔记保留原片时间戳、采访逐字稿入口与数据出处。
