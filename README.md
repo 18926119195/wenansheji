@@ -18,6 +18,6 @@
 
 ## 下次写稿也能用
 
-定标题前，先写一句读者最后能带走什么。排正文时，每一段问一句“看到这儿，他还想问什么”。发稿前，拿手机走一遍。发完，关系文先看有多少人分享，观点文看留言里哪些话被复述了，招募文查从哪个入口来、谁报了名、谁交了第一次作业。 [策划 Skill](.agents/skills/wechat-copy-planning/SKILL.md) · [工作表](.agents/skills/wechat-copy-planning/references/planning-and-review.md) · [方法来源](.agents/skills/wechat-copy-planning/references/source-notes.md)
+定标题前，先写一句读者最后能带走什么。排正文时，每一段问一句“看到这儿，他还想问什么”。发稿前，拿手机走一遍。发完，关系文先看有多少人分享，观点文看留言里哪些话被复述了，招募文查从哪个入口来、谁报了名、谁交了第一次作业。
 
 这三篇成稿署名撰文「树林同学」、排版「Jodieny」。文里的改稿是我现在回头拟的。发布时的封面、阅读分享、报名结果和协作过程，要拿当时的页面、后台或草稿来核对。 [原件.txt](%E5%8E%9F%E4%BB%B6.txt)
