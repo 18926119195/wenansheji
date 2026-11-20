@@ -61,4 +61,4 @@
 
 这次的结论以六篇正文为限，用于复核行文。判断阅读、转发或报名表现，还需要对应的发布记录。
 
-[回作品集](README.md) · [查看策划 Skill](.agents/skills/wechat-copy-planning/SKILL.md)
+[回作品集](README.md)
