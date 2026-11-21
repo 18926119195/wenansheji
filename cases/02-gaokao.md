@@ -1,5 +1,7 @@
 # 《我越来越觉得，高考是一场骗局》
 
+2024 年 5 月 11 日发布，腾讯索引显示发布账号为「树成林」。 [微信公众号文章](https://mp.weixin.qq.com/s?__biz=MzcxMDM2NDU5NQ==&mid=2247486011&idx=2&sn=1f35cbbab4c508c8fc9babac586214a4&chksm=f43d0c29e63c7d205aaeb91767f8dff14fbf39697ab6d09c53b14b5fed962d7a7662289df53b#rd) · [公开数据核对](../README.md#公众号发布与公开数据)
+
 我回头看这篇，先问一个问题。考生在班群里看到“骗局”两个字，读完以后，他还知道今晚要做什么吗？原稿标的是 2024 年 5 月 11 日。那年 6 月 7 日开考，确实只剩 27 天。这个时点有用，因为读者马上就要回教室写卷子。稿子最后该给他一个今天用得上的判断。 [原文开头](https://github.com/18926119195/wenansheji/blob/22f6b028e191ae7b8b91746e64ef51fc2c3b49ee/%E5%8E%9F%E4%BB%B6.txt#L581-L597) · [湖南省教育考试院首日记录](https://jyt.hunan.gov.cn/sjyt/hnsjyksy/web/ksyzkzx/202406/t20240607_33323248.html)
 
 ## 标题挑起问题，正文得一步一步答
