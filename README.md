@@ -18,13 +18,13 @@
 
 ## 公众号发布与公开数据
 
-| 作品 | 公众号发布版本 | 单篇公开数据 |
-| --- | --- | --- |
-| 《浪漫主义者》 | [树成林高中版 · 2023 年 8 月 19 日](https://mp.weixin.qq.com/s?__biz=MzcxMDM2NDU5NQ==&mid=2247485975&idx=2&sn=5b4e24bfbc5ffc36df66c0a2c070f5a4&chksm=f4120f686f3b36089ff2e3c3be867a32f10b5c55cf690c5d227d11b530cc1bf593aac3fe0a7f#rd) | 暂未核实 |
-| 《高考》 | [树成林 · 2024 年 5 月 11 日](https://mp.weixin.qq.com/s?__biz=MzcxMDM2NDU5NQ==&mid=2247486011&idx=2&sn=1f35cbbab4c508c8fc9babac586214a4&chksm=f43d0c29e63c7d205aaeb91767f8dff14fbf39697ab6d09c53b14b5fed962d7a7662289df53b#rd) | 暂未核实 |
-| 《IP觉醒营【筛选版】》 | 暂未核实微信链接。 [原稿里的招募安排](https://github.com/18926119195/wenansheji/blob/22f6b028e191ae7b8b91746e64ef51fc2c3b49ee/%E5%8E%9F%E4%BB%B6.txt#L1093-L1119) | 暂未核实 |
+| 作品 | 微信公众号「树成林」 | 阅读 | 赞 | 分享 | 推荐 | 留言 |
+| --- | --- | ---: | ---: | ---: | ---: | ---: |
+| 《浪漫主义者》 | [2023 年 8 月 19 日](https://mp.weixin.qq.com/s?__biz=MzcxMDM2NDU5NQ%3D%3D&mid=2247485975&idx=2&sn=5b4e24bfbc5ffc36df66c0a2c070f5a4) | 6,278 | 200 | 54 | 20 | 14 |
+| 《高考》 | [2024 年 5 月 11 日](https://mp.weixin.qq.com/s?__biz=MzcxMDM2NDU5NQ%3D%3D&mid=2247486011&idx=2&sn=1f35cbbab4c508c8fc9babac586214a4) | 待核 | 待核 | 待核 | 待核 | 待核 |
+| 《IP觉醒营【筛选版】》 | [2024 年 6 月 17 日](https://mp.weixin.qq.com/s?__biz=MzcxMDM2NDU5NQ%3D%3D&mid=2247486084&idx=1&sn=9a1938047633b1699894330f8029835a) | 1,855 | 38 | 67 | 2 | 2 |
 
-2026 年 11 月 21 日查询。前两篇按发布账号、日期、标题和开头核对。三篇均未查到可核验的单篇阅读、点赞、在看、转发或留言数。 [《浪漫主义者》发布索引](https://so.qq.com/isearch?tab=weixin_article&query=%E6%B5%AA%E6%BC%AB%E4%B8%BB%E4%B9%89%E8%80%85%EF%BC%8C%E5%A4%A9%E7%84%B6%E6%9C%89%E8%87%AA%E6%AF%81%E5%9F%BA%E5%9B%A0) · [《高考》发布索引](https://so.qq.com/isearch?tab=weixin_article&query=%E6%88%91%E8%B6%8A%E6%9D%A5%E8%B6%8A%E8%A7%89%E5%BE%97%EF%BC%8C%E9%AB%98%E8%80%83%E6%98%AF%E4%B8%80%E5%9C%BA%E9%AA%97%E5%B1%80)
+数据为 2026 年 11 月 21 日微信文章页显示的累计数字，按页面所列指标记录。《高考》已匹配发布版本，文末数据待核。
 
 ## 文章结构拆解
 
