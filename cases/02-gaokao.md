@@ -3,7 +3,7 @@
 **公众号发布与公开数据**　2026 年 11 月 21 日核对。
 
 - [树成林 · 2024 年 5 月 11 日](https://mp.weixin.qq.com/s?__biz=MzcxMDM2NDU5NQ%3D%3D&mid=2247486011&idx=2&sn=1f35cbbab4c508c8fc9babac586214a4)。赞 438、分享 334、推荐 36、留言 17。
-- [万木行 · 2023 年 3 月 18 日](https://mp.weixin.qq.com/s/gRFinbU3nS7DoUvPnzYJ3Q)。赞 505、分享 14、推荐 54、留言 32、听过人数 47。
+- [万木行 · 2023 年 3 月 18 日](https://mp.weixin.qq.com/s/gRFinbU3nS7DoUvPnzYJ3Q)。阅读 1.6 万、赞 505、分享 14、推荐 54、留言 32、听过人数 47。
 
 我回头看这篇，先问一个问题。考生在班群里看到“骗局”两个字，读完以后，他还知道今晚要做什么吗？原稿标的是 2024 年 5 月 11 日。那年 6 月 7 日开考，确实只剩 27 天。这个时点有用，因为读者马上就要回教室写卷子。稿子最后该给他一个今天用得上的判断。 [原文开头](https://github.com/18926119195/wenansheji/blob/22f6b028e191ae7b8b91746e64ef51fc2c3b49ee/%E5%8E%9F%E4%BB%B6.txt#L581-L597) · [湖南省教育考试院首日记录](https://jyt.hunan.gov.cn/sjyt/hnsjyksy/web/ksyzkzx/202406/t20240607_33323248.html)
 
